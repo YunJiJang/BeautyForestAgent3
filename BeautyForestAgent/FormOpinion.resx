@@ -117,4 +117,66 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <metadata name="tlsMenu.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="tsbtnFont.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAOCAYAAAAmL5yKAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMPSURBVDhPHZJrTNNnFMb/JlOzZGbZB7/tE4myGRJDiSiK
+        VRBETOWiwZg5FWPYFjbnVBRjsoEGjAqR2EBQ0zAaHE4QLYI3cHgJwkwULGKwSFUKDfZC+fdCS4Xy88iH
+        532fnPc55zkn51XK6wc4++8Q+hYHZ5pclDaogimOGVQKLnjYf85KQbWfbYV2Mgsd5JzwkHLYSsohG+t/
+        s6NcaPVTc/8jV7qg9hFU34OKFjjXDJf+g2NXRzje6OFEK/z+T4j8Oh9ZZW/YV+tnWd4DlKIqJxX1QSob
+        Q+gbAlRc8VJcPcKB04PsPzXI5pIJcvQRvv/JzJJ9L9AUjBJbMEbCX5NE/WJDae56ij0cwsdHgZfAHD6f
+        04wLCIM8wXQEIgIJMQNuV4TUjTtQjHX3mf4smIWgb4LwZIBZ0c0IghIvKW/DHZCEkB+Xz4kaijDqBtOD
+        PmK0OpQW0x1JFjV+cXMIDzAjLi8HfFQZusjYeJ7XZqkkksVfLWSh8iXfLFjKyx4Paem50oGxm6kQTPrE
+        Ve4Z0Q7ZQP/3NKnbHxObXcP/Urc/MIYLFaFYRHu500LU5q0ohhtNTMpgUwRRI35eO/yU1nSTebCd7zKv
+        k7j2IgODEJpSWTBP4ev5i/hC+ZY7d/tJy96FUllvksoePjDKOy+cPGMhUdvIwFuIW59PdPxBhsTW5vAy
+        4XXjcqu8t4cxdbxBk5onHVx7wrjMPCZtHS3qZEtOLZWGMXJ/vsXy+FMsW1WI2QqeIFiHbYRlA6rwqrqH
+        aLMPoJQbL9HVJx/mTwu781r4IGt7Njwk08Lq5DI060rpNM8yOgEjzgBOdZZus5PLrT0kZv2KcvHqY3G7
+        S5ymmXXJTaRkFcsfgLWbiomLNxKTUITuhzLey+qGxyP0Wb1zxYw3e1i+YSdKcXXpXMLDXje978K0Pe+n
+        raeX9mdvZU47tzvB0GChsf0V19pfCH+C0dSL6ZGVFel7UfTGDjJ2H2HVpj3ErPmR+ORDJOlK0KYXodH+
+        QWzSEZas3EXazsPEJG0nQZdPxt6TRK/eQdRKHZ8AuPSpVXk8DH0AAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="tsbtnColor.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAPCAYAAADtc08vAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANOSURBVDhPRZL9T9tVFMa/if7iX2GiWYxZlBmjhiaYLrg4
+        2QvIirrJRJbJIiOQgZiCEwWndiuyObuBtDIXBLby1k2IdOOti0h47Ri4pkJb2lIorXRt6ShtKR8v+8Uf
+        nntvzj3nec597pEa2/yomlao64pR2xmhtsWD+lcn1To3yp+9fFhjo7QxxrFzXt77+l/kp+1kVoTZV+xj
+        f0kASX17jYt3N9H8BZfuJdGY4lwdjnPhTpzv++F8dxDldTelTR7yL9sp74xzvH6VnJ+W2V00jFSlc3Ft
+        ABrvbqPueERNs5fKRjenVBY+US3wQbWfQ0onacUWslVh9pRYeb5wjhc/X2RXmQOpxdBBKOInsRUANoiJ
+        9bFAVGBTgMT/WHYsQ1Kct8Hrj5CeoUDSG8YhLoI72QJON4z/DT39Cfr6NpgSvPMirqzTodbe4MvvrhAW
+        +YNjDlLTc3c8MBISlAmCT5RvPVxHNRRFqV+l4pqNDuM8UaG6tSUuRWHYI5pZEyJDK+yVnUS62LsgCERQ
+        9B4Re70JTrZAbgN8VJugrErDkj/JL83d/KDRUV5zAWsoSdesm2cP5gsP/hAV8aCgdj55Z/3vLj7WeMm7
+        tEb+NzbG6/R4O0YwqepZHzELmxJEHm3QbvyTlANHkbRtvYSFtNMKgTU9jqUMzPfUaM/2cru+D9v5r3CV
+        FLFUUMjs2XMQSjAbSXLdNM2+w3lIV27qhfPrRENTrFtvsDpaTGBqPzM3s1lo7cFVns98zjs8eEtO/9Fc
+        kbOEW3jRNWbnVZn4hWqtjnDSgWOuktjMGZKmPNzdEmNXJaw/XiZYVcCI/CWGUvdgPlPKlt2HZWWb34wP
+        kclPIDXoB4XFsDj2LR7Tc7gMTzHZ8DS2dgXcn2Wy+gs6FVkMFxTgau3isTfOhGOTVqOFrPc/Q1LVGdiZ
+        nm2PHctAJoNtzzDaXoj3vpdoMMq6X8yOT/zjWpKAZ4N/fDDqStLUM0mK7DBSd68Zr8+DbzGGbdrN7Ew7
+        Uw+mMU1sYZiYo8HoonnATrNxhqY+M03DC7SOuGjoGiErt0gMkrad9JwcXk5T8PreCt48pCQ16wQvpL/L
+        7rePk3pEySsHT7FLfoTXFJ+SdqySNzLLkGWcJiU1m/8ApIbmPVJLwa8AAAAASUVORK5CYII=
+</value>
+  </data>
+  <metadata name="statusStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>123, 17</value>
+  </metadata>
+  <data name="rtbText.Text" xml:space="preserve">
+    <value>언론·출판이 타인의 명예나 권리를 침해한 때에는 피해자는 이에 대한 피해의 배상을 청구할 수 있다.
+ 언론·출판은 타인의 명예나 권리 또는 공중도덕이나 사회윤리를 침해하여서는 아니된다
+. 대통령은 전시·사변 또는 이에 준하는 국가비상사태에 있어서 병력으로써 군사상의 필요에 응하거나
+ 공공의 안녕질서를 유지할 필요가 있을 때에는 법률이 정하는 바에 의하여 계엄을 선포할 수 있다. 
+국회는 정부의 동의없이 정부가 제출한 지출예산 각항의 금액을 증가하거나 새 비목을 설치할 수 없다.
+국가는 주택개발정책등을 통하여 모든 국민이 쾌적한 주거생활을 할 수 있도록 노력하여야 한다. 
+모든 국민은 능력에 따라 균등하게 교육을 받을 권리를 가진다. 신체장애자 및 질병·노령 
+기타의 사유로 생활능력이 없는 국민은 법률이 정하는 바에 의하여 국가의 보호를</value>
+  </data>
+  <metadata name="fontDlg.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>240, 17</value>
+  </metadata>
+  <metadata name="colorDlg.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>357, 17</value>
+  </metadata>
 </root>

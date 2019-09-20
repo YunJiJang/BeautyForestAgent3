@@ -9,9 +9,9 @@ using System.Windows.Forms;
 
 namespace BeautyForestAgent
 {
-    public partial class FormOpinion : Form
+    public partial class Form1 : Form
     {
-        public FormOpinion()
+        public Form1()
         {
             InitializeComponent();
         }
@@ -20,6 +20,11 @@ namespace BeautyForestAgent
         {
             MessageBox.Show("건의사항이 보내졌습니다.", "건의사항 발송");
             this.Close();
+        }
+
+        private void ToolStripStatusLabel1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
